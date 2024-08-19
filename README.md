@@ -1,3 +1,5 @@
+[![Texte alternatif](https://www.platy.sk/c/images/cms/legacy/paylab_2018/regression_models_paylab_salary_report_analysis_income2.png)](URL_du_site)
+
 # SynergyHub
 Plateforme collaborative qui relie startups, entreprises et universités pour partager des informations, services et opportunités, favorisant l'innovation et la coopération.
 
